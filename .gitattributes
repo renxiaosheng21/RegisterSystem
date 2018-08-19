@@ -1,7 +1,1 @@
-*.js linguist-language=struts2
-
-*.css linguist-language=struts2
-
-*.html linguist-language=struts2
-
-*.zip linguist-language=struts2
+*.zip linguist-language=java
